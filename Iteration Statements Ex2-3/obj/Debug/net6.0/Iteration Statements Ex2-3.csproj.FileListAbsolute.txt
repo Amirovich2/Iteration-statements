@@ -1,0 +1,15 @@
+C:\Users\amirg\TCrepo\Iteration Statements Ex2-3\Iteration Statements Ex2-3\bin\Debug\net6.0\Iteration Statements Ex2-3.exe
+C:\Users\amirg\TCrepo\Iteration Statements Ex2-3\Iteration Statements Ex2-3\bin\Debug\net6.0\Iteration Statements Ex2-3.deps.json
+C:\Users\amirg\TCrepo\Iteration Statements Ex2-3\Iteration Statements Ex2-3\bin\Debug\net6.0\Iteration Statements Ex2-3.runtimeconfig.json
+C:\Users\amirg\TCrepo\Iteration Statements Ex2-3\Iteration Statements Ex2-3\bin\Debug\net6.0\Iteration Statements Ex2-3.dll
+C:\Users\amirg\TCrepo\Iteration Statements Ex2-3\Iteration Statements Ex2-3\bin\Debug\net6.0\Iteration Statements Ex2-3.pdb
+C:\Users\amirg\TCrepo\Iteration Statements Ex2-3\Iteration Statements Ex2-3\obj\Debug\net6.0\Iteration Statements Ex2-3.csproj.AssemblyReference.cache
+C:\Users\amirg\TCrepo\Iteration Statements Ex2-3\Iteration Statements Ex2-3\obj\Debug\net6.0\Iteration Statements Ex2-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amirg\TCrepo\Iteration Statements Ex2-3\Iteration Statements Ex2-3\obj\Debug\net6.0\Iteration Statements Ex2-3.AssemblyInfoInputs.cache
+C:\Users\amirg\TCrepo\Iteration Statements Ex2-3\Iteration Statements Ex2-3\obj\Debug\net6.0\Iteration Statements Ex2-3.AssemblyInfo.cs
+C:\Users\amirg\TCrepo\Iteration Statements Ex2-3\Iteration Statements Ex2-3\obj\Debug\net6.0\Iteration Statements Ex2-3.csproj.CoreCompileInputs.cache
+C:\Users\amirg\TCrepo\Iteration Statements Ex2-3\Iteration Statements Ex2-3\obj\Debug\net6.0\Iteration Statements Ex2-3.dll
+C:\Users\amirg\TCrepo\Iteration Statements Ex2-3\Iteration Statements Ex2-3\obj\Debug\net6.0\refint\Iteration Statements Ex2-3.dll
+C:\Users\amirg\TCrepo\Iteration Statements Ex2-3\Iteration Statements Ex2-3\obj\Debug\net6.0\Iteration Statements Ex2-3.pdb
+C:\Users\amirg\TCrepo\Iteration Statements Ex2-3\Iteration Statements Ex2-3\obj\Debug\net6.0\Iteration Statements Ex2-3.genruntimeconfig.cache
+C:\Users\amirg\TCrepo\Iteration Statements Ex2-3\Iteration Statements Ex2-3\obj\Debug\net6.0\ref\Iteration Statements Ex2-3.dll
